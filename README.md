@@ -43,7 +43,7 @@ To use this application, you will need:
 * Activate virtual environment
 
         $ python -m venv venv || python3 -m venv venv
-        $ source virtual/bin/activate || source virtual\Scripts\activate
+        $ source venv/bin/activate || source venv\Scripts\activate
 
 * Install the latest version of pip
 
